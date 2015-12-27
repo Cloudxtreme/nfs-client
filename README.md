@@ -1,5 +1,7 @@
 # nfs-client
 
+[![Image Layers](https://badge.imagelayers.io/prologic/nfs-client:latest.svg)](https://imagelayers.io/?images=prologic/nfs-client:latest)
+
 A small (~10 MB) Docker image based on Alpine Linux intended for connecting to
 remote nfs volumes.
 
